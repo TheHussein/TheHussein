@@ -9,6 +9,3 @@
 - 📖 Just released my thesis on "Congestion Management Using Deep Reinforcement Learning"
 - 🌱 Currently working at Zammit, [Check us out now!](https://www.zammit.shop/)
 - 💬 Ask me about Javascript, Typescript, Vue, React, Flutter and my projects on omarhatem101@gmail.com
-
-
-⭐️ From [TheHussein](https://github.com/TheHussein)
